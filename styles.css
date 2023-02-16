@@ -1,2 +1,20 @@
+nav{
+	padding:20px;
+}
 
-/* Your CSS Code here. */
+#summary{
+	padding:20px;background-color:lightyellow;
+/* 	margin:0px; */
+}
+
+#actor{
+	padding:20px;background-color:lightyellow;
+}
+
+#quote{
+	padding:20px;background-color:lightyellow;
+}
+
+#aside{
+	padding:40px;background-color:lightyellow;
+}
