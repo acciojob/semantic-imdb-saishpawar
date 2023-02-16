@@ -1,7 +1,9 @@
 nav{
 	padding:20px;
 }
-
+h1{
+	color:orange;
+}
 #summary{
 	padding:20px;background-color:lightyellow;
 /* 	margin:0px; */
